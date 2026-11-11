@@ -1,0 +1,4 @@
+IMPORTANTE: Este pacote contém o projeto preparado para gerar os executáveis Windows.
+O binário .exe não foi compilado neste ambiente Linux, pois Electron/electron-builder não puderam ser baixados (sem acesso funcional ao registry npm) e não há toolchain Windows instalada.
+Para gerar os arquivos .exe em Windows 10/11 x64, execute GERAR-EXE-WINDOWS.bat.
+Alternativa: publique o projeto em um repositório GitHub e execute a workflow "Build Windows executables" em Actions; ela disponibiliza os .exe como artefatos.

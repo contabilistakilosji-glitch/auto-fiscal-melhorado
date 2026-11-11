@@ -1,0 +1,8 @@
+{
+  "name": "Remix AutoFiscal RPA - Automação Contábil Governamental",
+  "description": "Plataforma profissional de automação robótica para contadores: preenchimento automático e execução em sites como e-CAC, FGTS Digital, DCTFWeb e GOV.br com suporte a Certificado Digital ICP-Brasil (A1/A3) e autenticação multifator (MFA/2FA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
